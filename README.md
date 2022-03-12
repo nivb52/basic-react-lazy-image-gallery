@@ -2,11 +2,11 @@
 
 Lazy loading image using intesection oberserver
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API](Intersection_Observer_API)
+[Intersection_Observer_API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API).
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Using_the_Intersection_Observer_API](Using_the_Intersection_Observer_API)
+[Using_the_Intersection_Observer_API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Using_the_Intersection_Observer_API).
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Intersection_Observer_with_custom_settings](Intersection_Observer_with_custom_settings)
+[Intersection_Observer_with_custom_settings](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Intersection_Observer_with_custom_settings).
 
 # Getting Started with Create React App
 
