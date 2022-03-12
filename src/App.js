@@ -1,11 +1,6 @@
 import "./App.css";
 import React, {useEffect, useState} from "react";
 
-// lazy loading image
-// lazy load using intesection oberserver
-// https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
-// https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Using_the_Intersection_Observer_API
-// https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Intersection_Observer_with_custom_settings
 
 const imagesUrl = [
   "https://i.pinimg.com/originals/34/f3/80/34f3807d8e588f8ac2095f47e740c923.png",
